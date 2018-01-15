@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "645402648066",
+    "firebase_url": "https://project-9113038622526324038.firebaseio.com",
+    "project_id": "project-9113038622526324038",
+    "storage_bucket": "project-9113038622526324038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645402648066:android:01b8761ffe2968ba",
+        "android_client_info": {
+          "package_name": "com.example.joe10.yosta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645402648066-40a225s4lojqlmf783otpuan3n2oa96a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.joe10.yosta",
+            "certificate_hash": "66DB6A4C4BC528087F12F6292541CC3D4B2B19EE"
+          }
+        },
+        {
+          "client_id": "645402648066-lc04jpg51nubvn26rckrijd50r0i2n50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1n8qfiQm4bGqHD4WUIO1nPA_kmEcPCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645402648066-lc04jpg51nubvn26rckrijd50r0i2n50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645402648066:android:9af61c04307bd5ff",
+        "android_client_info": {
+          "package_name": "com.jssdesarrollo.joe10.yosta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645402648066-2521i7c006jbq8f8qulpovsr90lo3guq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jssdesarrollo.joe10.yosta",
+            "certificate_hash": "66DB6A4C4BC528087F12F6292541CC3D4B2B19EE"
+          }
+        },
+        {
+          "client_id": "645402648066-lc04jpg51nubvn26rckrijd50r0i2n50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS1n8qfiQm4bGqHD4WUIO1nPA_kmEcPCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645402648066-lc04jpg51nubvn26rckrijd50r0i2n50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

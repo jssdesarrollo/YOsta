@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="@dimen/nav_header_height"
+    android:background="@color/colorPrimary"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark" android:orientation="vertical"
+    android:gravity="bottom"
+    android:weightSum="1"
+    android:baselineAligned="false">
+
+    <ImageView android:layout_width="wrap_content" android:layout_height="74dp"
+         android:paddingTop="@dimen/nav_header_vertical_spacing"
+         android:src="@drawable/ostacompleto" android:id="@+id/imageView"
+        android:background="@color/colorPrimary" />
+
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:paddingTop="@dimen/nav_header_vertical_spacing" android:text="OSTA YUDIGAR"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#010101"
+        android:textStyle="bold"
+        android:nestedScrollingEnabled="false"
+        android:id="@+id/textView3" />
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="Sección sindical de Yudigar Osta" android:id="@+id/textView"
+        android:textColor="#010101"
+        android:textStyle="bold" />
+
+</LinearLayout>

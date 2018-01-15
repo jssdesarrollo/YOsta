@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">YOsta</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ruta_calcariñena">http://jssdesarrollo.com/osta/cal2016car.pdf</string>
+    <string name="ruta_calzaragoza">http://jssdesarrollo.com/osta/cal2016zar.pdf</string>
+    <string name="ruta_calfinde">http://jssdesarrollo.com/osta/cal2016fnd.pdf</string>
+    <string name="ruta_pacto">http://jssdesarrollo.com/osta/pacto.pdf</string>
+    <string name="ruta_permisos">http://jssdesarrollo.com/osta/permisos.pdf</string>
+    <string name="ruta_enfermedad">http://jssdesarrollo.com/osta/enfermedad.pdf</string>
+    <string name="ruta_accidentes">http://jssdesarrollo.com/osta/accidentes.pdf</string>
+    <string name="ruta_telefonos">http://jssdesarrollo.com/osta/telefonos.pdf</string>
+    <string name="ruta_sobrenosotros">http://jssdesarrollo.com/osta/sobrenosotros.pdf</string>
+    <string name="ruta_tablassalariales">http://jssdesarrollo.com/osta/tablassalariales.pdf</string>
+    <string name="ruta_data">http://jssdesarrollo.com/osta/data.dat</string>
+    <string name="ruta_comunicados">http://jssdesarrollo.com/osta/comunicados/</string>
+    <string name="ruta_rutasbus">http://jssdesarrollo.com/osta/rutasbus.pdf</string>
+
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_comunicados" android:icon="@android:drawable/ic_dialog_info"
+            android:title="Comunicados Osta Yudigar" />
+
+    </group>
+
+    <item android:title="Documentos" android:textColor="#000000">
+        <menu>
+            <item android:id="@+id/nav_pacto" android:icon="@android:drawable/ic_input_get"
+                android:title="Pacto Yudigar" />
+            <item android:id="@+id/nav_tablassalariales" android:icon="@drawable/ic_euro_symbol"
+                android:title="Tablas salariales" />
+            <item android:id="@+id/nav_permisos" android:icon="@drawable/ic_pregnant_woman"
+                android:title="Permisos" />
+            <item android:id="@+id/nav_enfermedad" android:icon="@drawable/ic_airline_seat_individual_suite"
+                android:title="Enfermedad común / ANL" />
+            <item android:id="@+id/nav_accidente" android:icon="@android:drawable/ic_dialog_alert"
+                android:title="Protocolo accidentes" />
+            <item android:id="@+id/nav_telefonos" android:icon="@drawable/ic_action_phone_start"
+                android:title="Teléfonos de interés" />
+            <item android:id="@+id/nav_rutasbus" android:icon="@drawable/ic_directions_bus"
+                android:title="Rutas autobuses" />
+
+        </menu>
+    </item>
+    <item android:title="Calendarios laborales">
+        <menu>
+            <item android:id="@+id/nav_calcariñena" android:icon="@android:drawable/ic_menu_today"
+                android:title="Cariñena"/>
+            <item android:id="@+id/nav_calzaragoza" android:icon="@android:drawable/ic_menu_today"
+                android:title="Zaragoza"/>
+            <item android:id="@+id/nav_calfinde" android:icon="@android:drawable/ic_menu_today"
+                android:title="Turno fin de semana"/>
+        </menu>
+    </item>
+
+    <item android:title="Sobre nosotros">
+        <menu>
+            <item android:id="@+id/nav_sobrenosotros" android:icon="@drawable/ic_group"
+                android:title="Grupo Osta Yudigar" />
+            <item android:id="@+id/nav_facebook" android:icon="@drawable/ic_action_facebook"
+                android:title="Síguenos en Facebook"/>
+            <item android:id="@+id/nav_web" android:icon="@drawable/ic_public"
+                android:title="Web Osta"/>
+        </menu>
+    </item>
+    <item android:title="Desarrollo">
+        <menu>
+            <item android:id="@+id/nav_version" android:icon="@drawable/ic_action_gear"
+                android:title="Acerca de"/>
+        </menu>
+    </item>
+</menu>
